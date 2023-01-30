@@ -1,0 +1,12 @@
+{
+  "host": "0.0.0.0",
+  "brand": "MineStom",
+  "port": 25566,
+  "playerCount": 120,
+  "motd": {
+    "firstLine": "§cPotionMC Network §8➥ §7One for all §8[§c1.19.2§8]",
+    "secondLine": " §8➥ §c§lCrash Network §8➥§7 new Task"
+  },
+  "prefix": "§8[§cBlazShield§8] §7",
+  "language": "en"
+}
